@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.javatechie</groupId>
 	<artifactId>spring-boot-docker</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-docker</name>
 	<description>Dockerize spring boot application </description>
 
