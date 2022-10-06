@@ -12,7 +12,7 @@
 	<artifactId>spring-boot-docker</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<name>spring-boot-docker</name>
-	<description>Dockersize spring boot application </description>
+	<description>Dockerize spring boot application </description>
 
 	<properties>
 		<java.version>17</java.version>
